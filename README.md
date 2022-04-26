@@ -16,3 +16,22 @@ the script takes users through the following stage
 3. Asking users to select a specific day from monday to sunday or all if no preference
 
 the script was written to handle user input to ensure that user follows the recognised input to avoid breaking the program. The answers provided by users to the questions above will determine the city, the timeframe and which data analysis was done. After the result was provided the users were asked if they wanted to see the raw data and when they say yes more raw data would be generated and when they indicate no, the script promoted if they wanted to restart the program, a response of yes would mean they willl restart again and a response of no would mean they quit the program.
+
+### **The Datasets Used**
+Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+
+Start Time (e.g., 2017-01-01 00:07:57)
+End Time (e.g., 2017-01-01 00:20:53)
+Trip Duration (in seconds - e.g., 776)
+Start Station (e.g., Broadway & Barry Ave)
+End Station (e.g., Sedgwick St & North Ave)
+User Type (Subscriber or Customer)
+
+The Chicago and New York City files also have the following two columns:
+    -Gender
+    -Birth Year
+
+The original data set are found below:
+    [Chicago](https://www.divvybikes.com/system-data)
+    [Washington](https://www.capitalbikeshare.com/system-data)
+    [New_York_City](https://www.citibikenyc.com/system-data)
