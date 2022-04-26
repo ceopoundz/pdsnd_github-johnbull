@@ -1,6 +1,7 @@
 ### April 26th, 2022
 ### Explore US Bikeshare Data
-### This project asks users to select among three cities washinghton, chicago and new york city and filter data base on this selected city
+### Description
+This project asks users to select among three cities washinghton, chicago and new york city and filter data base on this selected city
 ### Files used includes data set from three cities washington new york and chicago all in csv format
 ### Credits
 Extra resources used includes 
